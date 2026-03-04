@@ -89,6 +89,6 @@ Se desarrollo este sitio web por medio de Html puro y css.
 
 Parte 4: Presentación en Clase:
 
-¿Porque eleguí egenieer DevOps como mi trabajo deseado?
+¿Porque eleguí engineer DevOps como mi trabajo deseado?
 
 Un ingeniero devOps es el puente entre la parte técnica y la parte administrativa , esta mezcla de actividades ,como tener  conocimientos en distintas areas ,programación(varios lenguajes), estructuras de las máquinas por dentro y fuera , manejo de archivos , interacción con personas etc, esta mezcla es lo que hace esta labor tan interesante e importante , ya que no se enfoca en una sola área en específico si no que involucra más participación en basicamente todas etapas de los proyectos , es por eso que me gustaría en un futuro poder trabajar en algo similar.
